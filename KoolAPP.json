@@ -1,5 +1,4 @@
-[
-{
+[{
 		"ID": "1",
 		"Title": "Area",
 		"File": "Area.mp4",
@@ -55,7 +54,7 @@
 		"Subject": "Science"
 	}, {
 		"ID": "10",
-		"Title": "Soil"
+		"Title": "Soil",
 		"File": "Soil.mp4",
 		"Grade": "MiddleSchool",
 		"Subject": "Science"
@@ -145,14 +144,13 @@
 		"File": "Gettysburg_address.mp4",
 		"Grade": "HighSchool",
 		"Subject": "Social Studies"
-	}
-	,{
+	}, {
 		"ID": "25",
 		"Title": "Capitalization",
 		"File": "Capitalization.mp4",
 		"Grade": "HighSchool",
 		"Subject": "ELA"
-	},{
+	}, {
 		"ID": "26",
 		"Title": "Figurative Language",
 		"File": "Figurative_Language.mp4",
@@ -166,7 +164,7 @@
 		"Grade": "HighSchool",
 		"Subject": "ELA"
 	},
-		{
+	{
 		"ID": "28",
 		"Title": "Hyphenation",
 		"File": "Hyphenation.mp4",
@@ -179,6 +177,6 @@
 		"File": "Parts_of_Speech.mp4",
 		"Grade": "HighSchool",
 		"Subject": "ELA"
-	},
+	}
 
 ]
