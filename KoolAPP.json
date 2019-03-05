@@ -177,8 +177,7 @@
 		"File": "Parts_of_Speech.mp4",
 		"Grade": "HighSchool",
 		"Subject": "ELA"
-	}
- ,{
+	}, {
 		"INDEX": "1",
 		"Title": "Counting To 100",
 		"File": "M168CountingTo100.mp4",
@@ -321,7 +320,7 @@
 		"File": "ABCORDER.mp4",
 		"Grade": "MiddleSchool",
 		"Subject": "ELA",
-		"DEFINITION": "a system whereby strings of characters are placed in order based on the position of the characters in the conventional ordering of an alphabet. It is one of the methods of collation. To determine which of two strings comes first in alphabetical order, their first letters are compared"
+		"DEFINITION": "a system whereby strings of characters are placed in order based on the position of the characters in the conventional ordering of an alphabet. It is one of the methods of collation. To determine which of two strings comes first in alphabetical order, their first letters are compared",
 		"EVERYDAYUSE": "In the English language, the alphabet begins with the letter A and ends with the letter Z. Words in alphabetical order are arranged in this manner:  If we had the following words: 'sat', 'bat', 'mat', 'rat, 'cat', we would put them in order by starting  with the word that begins with the letter 'A'. If there is not a word that begins with the letter 'A' we would go on the next letter in the alphabet 'B' and so on. Our list of words in alphabetical order looks like this:  bat, cat, mat, rat, sat",
 		"HOWITWORKS": "A  systematic way to organize a list of words. Words are organized by following the order of letters in the alphabet-beginning with the letter A and ending with the letter Z."
 	}, {
@@ -341,7 +340,7 @@
 		"Subject": "ELA",
 		"DEFINITION": "You might like to think of nouns as naming words because a noun is the name of a person, place, thing, or idea. Everything we can see and talk about, we assume, can be named, and that name is a noun. A proper noun, which names a particular person, place, or thing (Mary, Queen Elizabeth, Middle East, Jerusalem, God, the Democratic Party), is almost always capitalized. A proper noun used as an addressed person’s name is referred to as a noun of address. Common nouns name everything else, things that typically are not capitalized",
 		"HOWITWORKS": "At times a noun will be the name for something we can touch (e.g., dog, cake, computer), and sometimes a noun will be the name for something we cannot touch (e.g., bravery, peace). Everything is represented by a word that we can talk about. This includes people (e.g., woman, doctor), animals (e.g., cat, frog), places (e.g., city, street), objects (e.g., bowl, pen), substances (e.g., brass, glass), qualities (e.g., valor, sorrow), actions (e.g., playing, dancing), and measures (e.g., quart, ounce).",
-		"EVERYDAYUSE": "Everyday Use: Nouns are used every day in reading, writing and daily conversation",
+		"EVERYDAYUSE": "Everyday Use: Nouns are used every day in reading, writing and daily conversation"
 
 	}, {
 		"INDEX": "19",
@@ -421,7 +420,7 @@
 		"File": "SS23Economics.mp4",
 		"Grade": "Hichshool",
 		"Subject": "Social Studies",
-		"DEFINITION": "A social science concerned chiefly with description and analysis of the production, distribution, and consumption of goods and services"
+		"DEFINITION": "A social science concerned chiefly with description and analysis of the production, distribution, and consumption of goods and services",
 		"EVERYDAYUSE": "Purchase and Selling",
 		"HOWITWORKS": "The study of how people produce, trade, and use goods and services. Economists look at how different actors, such as individuals, companies, and governments, interact with one another to maximize the fulfillment of their needs through the use of scarce resources."
 	}, {
@@ -430,7 +429,7 @@
 		"File": "SS43HowABillIsPassed.mp4",
 		"Grade": "Hichshool",
 		"Subject": "Social Studies",
-		"DEFINITION": "A bill is proposed legislation under consideration by a legislature"
+		"DEFINITION": "A bill is proposed legislation under consideration by a legislature",
 		"EVERYDAYUSE": "A bill does not become law until it is passed by the legislature and, in most cases, approved by the executive. Once a bill has been enacted into law, it is called an act of the legislature, or a statute",
 		"HOWITWORKS": "See Every Day Use"
 	}, {
@@ -565,7 +564,7 @@
 		"File": "S75Rocks.mp4",
 		"Grade": "MiddleSchool",
 		"Subject": "Science",
-		"DEFINITION": "Rocks are the solid or not solid mineral material forming part of the top of the earth and other similar planets. Rocks are exposed on the surface or underneath the soil or oceans. Many are not made of minerals and are lifeless combinations with chemical formulas and mineral names, like quartz."
+		"DEFINITION": "Rocks are the solid or not solid mineral material forming part of the top of the earth and other similar planets. Rocks are exposed on the surface or underneath the soil or oceans. Many are not made of minerals and are lifeless combinations with chemical formulas and mineral names, like quartz.",
 		"EVERYDAYUSE": "",
 		"HOWITWORKS": ""
 	}, {
@@ -602,7 +601,7 @@
 		"File": "M6Algebra_Graphs.mp4",
 		"Grade": "MiddleSchool",
 		"Subject": "Math",
-		"DEFINITION": "A graph is a visual representation of a function of one variable. Graphs are plotted with a horizontal and vertical axis, so that values of x are on the horizontal axis and values of y are on the vertical axis"
+		"DEFINITION": "A graph is a visual representation of a function of one variable. Graphs are plotted with a horizontal and vertical axis, so that values of x are on the horizontal axis and values of y are on the vertical axis",
 		"EVERYDAYUSE": "Construction, Engineering",
 		"HOWITWORKS": ""
 	}, {
@@ -630,8 +629,7 @@
 		"File": "M16_Chronological_Order",
 		"Grade": "MiddleSchool",
 		"Subject": "ELA",
-		"DEFINITION";
-		"The definition of chronological is arranged in the order it happened.",
+		"DEFINITION": "The definition of chronological is arranged in the order it happened.",
 		"EVERYDAYUSE": "Everyday Use: Chronological order is used every day when putting things in order",
 		"HOWITWORKS": "An example of chronological is a biography that starts in 1920 and goes through 1997"
 
@@ -643,7 +641,7 @@
 		"Subject": "ELA",
 		"DEFINITION": "Letters of the alphabet that generally stand for sounds made with an open or partially open mouth: A, E, I, O, U, and sometimes Y",
 		"EVERYDAYUSE": "Vowels are used in every word in the english language",
-		"HOWITWORKS": "phonetics a voiced speech sound whose articulation is characterized by the absence of friction-causing obstruction in the vocal tract, allowing the breath stream free passage. The timbre of a vowel is chiefly determined by the position of the tongue and the lips",
+		"HOWITWORKS": "phonetics a voiced speech sound whose articulation is characterized by the absence of friction-causing obstruction in the vocal tract, allowing the breath stream free passage. The timbre of a vowel is chiefly determined by the position of the tongue and the lips"
 	}, {
 		"INDEX": "52",
 		"Title": "ABC ORDER",
@@ -670,10 +668,8 @@
 		"Subject": "ELA",
 		"DEFINITION": "You might like to think of nouns as naming words because a noun is the name of a person, place, thing, or idea. Everything we can see and talk about, we assume, can be named, and that name is a noun. A proper noun, which names a particular person, place, or thing (Mary, Queen Elizabeth, Middle East, Jerusalem, God, the Democratic Party), is almost always capitalized. A proper noun used as an addressed person’s name is referred to as a noun of address. Common nouns name everything else, things that typically are not capitalized",
 		"HOWITWORKS": "At times a noun will be the name for something we can touch (e.g., dog, cake, computer), and sometimes a noun will be the name for something we cannot touch (e.g., bravery, peace). Everything is represented by a word that we can talk about. This includes people (e.g., woman, doctor), animals (e.g., cat, frog), places (e.g., city, street), objects (e.g., bowl, pen), substances (e.g., brass, glass), qualities (e.g., valor, sorrow), actions (e.g., playing, dancing), and measures (e.g., quart, ounce).",
-		"EVERYDAYUSE": "Everyday Use: Nouns are used every day in reading, writing and daily conversation",
+		"EVERYDAYUSE": "Everyday Use: Nouns are used every day in reading, writing and daily conversation"
 
 	}
 
 ]
-
-
