@@ -178,5 +178,502 @@
 		"Grade": "HighSchool",
 		"Subject": "ELA"
 	}
+ ,{
+		"INDEX": "1",
+		"Title": "Counting To 100",
+		"File": "M168CountingTo100.mp4",
+		"Grade": "Elementary",
+		"Subject": "Math",
+		"DEFINITION": "To name or list (the units of a group or collection) one by one in order to determine a total; number.",
+		"EVERYDAYUSE": "",
+		"HOWITWORKS": ""
+	}, {
+		"INDEX": "2",
+		"Title": "ELEMENTARY SHAPES",
+		"File": "M35elementaryshapes.mp4",
+		"Grade": "Elementary",
+		"Subject": "Math",
+		"DEFINITION": "A shape is the form of an object. It is how the form of an object is laid out in space. Knowking shapes is important when learning how to read (helps with letter recognition), early math skills, categorization and comparisons, and problem solving.  Common shapes include circles, squares, triangles, spheres, cubes, and pyramids.",
+		"EVERYDAYUSE": "HOW IT IS USED IN EVERYDAY LIFE: Shapes are used every day when drawing and observing objects",
+		"HOWITWORKS": "HOW IT WORKS: Rectangles, triangles, circles, and squares are examples of shapes"
+	}, {
+		"INDEX": "3",
+		"Title": "Subtraction",
+		"File": "M131SUBTRACTION.mp4",
+		"Grade": "Elementary",
+		"Subject": "Math",
+		"DEFINITION": "The process or skill of taking one number or amount away from another. The result of a subtraction is called a difference.",
+		"EVERYDAYUSE": "Shopping, spending money",
+		"HOWITWORKS": "The part you start with is called the minuend. The part being taken away is called the subtrahend. The part that is left after subtraction is called the difference. In the problem 5 - 3 = 2, the number 5 is the minuend, the number 3 is the subtrahend, and the number 2 is the difference"
+	}, {
+		"INDEX": "4",
+		"Title": "Triangles",
+		"File": "M139Triangles.mp4",
+		"Grade": "Elementary",
+		"Subject": "Math",
+		"DEFINITION": "A shape that has 3 sides",
+		"EVERYDAYUSE": "Architecture, Engineering",
+		"HOWITWORKS": "Isosceles Two sides equal Equilateral All sides equal Scalene No sides equal"
+	}, {
+		"INDEX": "5",
+		"Title": "INSECT LIFE",
+		"File": "S53insectlife.mp4",
+		"Grade": "Elementary",
+		"Subject": "Science",
+		"DEFINITION": "Insects are part of a bigger animal group called arthropods. The word Arthropod means jointed limbs. The arthropods are the first animal group to have jointed legs. Insects have certain characteristics. They have six legs. They have three body parts, a head, a thorax and an abdomen. They have wings. They are by far the largest animal group. They also have an outer or exoskeleton made of a substance called chitin",
+		"EVERYDAYUSE": "Bees,Ants, Flys,Spiders...",
+		"HOWITWORKS": "Importance: The insects have proved to be the most successful arthropods. There are a lot more species in the class Insect than in any other group of animals. These diverse animals have conquered all the environments on earth except for the frozen polar environments at the highest altitudes and in the vicinity of active volcanoes. Insects are the only invertebrates (animals without backbones) with wings. Much of their success results from their ability to fly and colonize new habitats. The study of insects is called entomology and entomologists are scientists who study insects"
+	}, {
+		"INDEX": "6",
+		"Title": "Rainbows",
+		"File": "S74Rainbows.mp4",
+		"Grade": "MiddleSchool",
+		"Subject": "Elementary",
+		"DEFINITION": "An arch of colors formed in the sky in certain circumstances, caused by the refraction and dispersion of the sun’s light by rain or other water droplets in the atmosphere.",
+		"EVERYDAYUSE": "Sometimes a rainbow will form after a storm",
+		"HOWITWORKS": "A rainbow is an optical and meteorological phenomenon that is caused by both reflection and refraction of light in water droplets resulting in a spectrum of light appearing in the sky. It takes the form of a multicolored arc. Rainbows caused by sunlight always appear in the section of sky directly opposite the sun."
+
+	}, {
+		"INDEX": "7",
+		"Title": "SOLID LIQUID GAS",
+		"File": "S83SolidLiquidsGas-1.mp4",
+		"Grade": "Elementary",
+		"Subject": "Science",
+		"DEFINITION": "A substance in a solid phase is likely rigid and has a definite volume and shape. Liquids have a precise volume and are able to change their shape by flowing. Liquids are like solids in that the particles touch. Gases have no specific volume or shape. If unconstrained, gases will expand always. Contained hey will take the shape of their container. This is because gas particle has enough energy to avoid attractive forces",
+		"EVERYDAYUSE": "Water turns to Ice,Making steel,oxygen and carbinozide",
+		"HOWITWORKS": "In solids, atoms are bonded closely together, though they do move about a little. If a solid is somewhat soft then it is pressed, you can make it change shape by pushing its atoms into new orientation. with liquids, the atoms are randomly arranged further apart. The forces between them are weaker and they can move about and flow past one another easily. Which makes them easy to pour. Gases have more randomly arranged atoms than either liquids or solids. The forces between the atoms are weak, so the atoms can move around freely because of its energy. A solid cannot be compressed because the particles are side by side. When a solid is heated its volume will expand as the temperature rises. Liquids take the shape of the container that it is in. When a liquid is heated its volume changes with temperature. A liquid cannot be compressed because the particles are close together. A gas will occupy the whole volume of its container. A as is easily compressed. The speed of the particles in a gas speeds up as the temperature rises."
+	}, {
+		"INDEX": "8",
+		"Title": "Butterfly",
+		"File": "S9Butterfly.mp4",
+		"Grade": "Elementary",
+		"Subject": "Science",
+		"DEFINITION": "An insect with two pairs of large wings that are covered with tiny scales, usually brightly colored, and typically held erect when at rest. Butterflies fly by day, have clubbed or dilated antennae, and usually feed on nectar",
+		"EVERYDAYUSE": "",
+		"HOWITWORKS": "Butterflies are insects in the macrolepidopteran clade Rhopalocera from the order Lepidoptera, which also includes moths. Adult butterflies have large, often brightly coloured wings, and conspicuous, fluttering flight."
+	}, {
+		"INDEX": "9",
+		"Title": "Color And Light",
+		"File": "S18Color_Light.mp4",
+		"Grade": "Elementary",
+		"Subject": "Science",
+		"DEFINITION": "Color is the element of art that is produced when light, striking an object, is reflected back to the eye. Light is the natural agent that stimulates sight and makes things visible; illuminate. The color of an object is the color of the light it reflects. Color derives from the spectrum of light in the eye with the spectral sensitivities of the light receptors",
+		"EVERYDAYUSE": "Flash light Painting Colors Lighting in a room Color and light is used everyday. Being able to see colors automatically shows illumination From some source. Colors can also shape how you dress, what you eat, your physical appearance, the rooms you live in, and also how you feel.",
+		"HOWITWORKS": "The retinas in our eyes though have three types of color receptors in the form of cones. We can actually only detect three of these visible colors – red – blue and green. These colors are called additive primaries. It is these three colors that mixed in our brain to create all of the other colors we see everyday."
+	}, {
+		"INDEX": "10",
+		"Title": "Airplanes",
+		"File": "SS4Airplanes.mp4",
+		"Grade": "Elementary",
+		"Subject": "Social Studies",
+		"DEFINITION": "An airplane or aeroplane (informally plane) is a powered, fixed-wing aircraft that is propelled forward by thrust from a jet engine, propeller or rocket engine.",
+		"EVERYDAYUSE": "People travel all over the world in an airplane.",
+		"HOWITWORKS": "A plane's engines are designed to move it forward at high speed. That makes air flow rapidly over the wings, which throw the air down toward the ground, generating an upward force called lift that overcomes the plane's weight and holds it in the sky. The wings force the air downward and that pushes the plane upward"
+	}, {
+		"INDEX": "11",
+		"Title": "Good Citizen",
+		"File": "SS31GoodCitizen.mp4",
+		"Grade": "Elementary",
+		"Subject": "Social Studies",
+		"DEFINITION": "An inhabitant of a city or town",
+		"EVERYDAYUSE": "You are a citizen of your city, state, and country.",
+		"HOWITWORKS": "CITIZEN is preferred for one owing allegiance to a state in which sovereign power is retained by the people and sharing in the political rights of those people"
+	}, {
+		"INDEX": "12",
+		"Title": "Holiday",
+		"File": "SS41Holiday.mp4",
+		"Grade": "Elementary",
+		"Subject": "Social Studies",
+		"DEFINITION": "A holiday is a day set aside by custom or by law on which normal activities, especially business or work including school, are suspended or reduced. Generally, holidays are intended to allow individuals to celebrate or commemorate an event or tradition of cultural or religious significance. Holidays may be designated by governments, religious institutions, or other groups or organizations. The degree to which normal activities are reduced by a holiday may depend on local laws, customs, the type of job held or personal choices.",
+		"EVERYDAYUSE": "The concept of holidays often originated in connection with religious observances. The intention of a holiday was typically to allow individuals to tend to religious duties associated with important dates on the calendar. In most modern societies, however, holidays serve as much of a recreational function as any other weekend days or activities.",
+		"HOWITWORKS": "Christmas, Easter,New Years Day,Valentines Day, and The 4th Of July are examples of holidays"
+	}, {
+		"INDEX": "13",
+		"Title": "US President",
+		"File": "SS83USPresidents.mp4",
+		"Grade": "Elementary",
+		"Subject": "Social Studies",
+		"DEFINITION": "The President of the United States (POTUS)[B] is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.",
+		"EVERYDAYUSE": "He lives in the White House , and makes laws with Congress and the House of Representatives",
+		"HOWITWORKS": "The US President is elected by the Citizens of The United States"
+	}, {
+		"INDEX": "14",
+		"Title": "Chronological Order",
+		"File": "M16_Chronological_Order",
+		"Grade": "MiddleSchool",
+		"Subject": "ELA",
+		"DEFINITION": "The definition of chronological is arranged in the order it happened.",
+		"EVERYDAYUSE": "Everyday Use: Chronological order is used every day when putting things in order",
+		"HOWITWORKS": "An example of chronological is a biography that starts in 1920 and goes through 1997"
+
+	}, {
+		"INDEX": "15",
+		"Title": "VOWELS",
+		"File": "VOWELS.mp4",
+		"Grade": "MiddleSchool",
+		"Subject": "ELA",
+		"DEFINITION": "Letters of the alphabet that generally stand for sounds made with an open or partially open mouth: A, E, I, O, U, and sometimes Y",
+		"EVERYDAYUSE": "Vowels are used in every word in the english language",
+		"HOWITWORKS": "phonetics a voiced speech sound whose articulation is characterized by the absence of friction-causing obstruction in the vocal tract, allowing the breath stream free passage. The timbre of a vowel is chiefly determined by the position of the tongue and the lips"
+	}, {
+		"INDEX": "16",
+		"Title": "ABC ORDER",
+		"File": "ABCORDER.mp4",
+		"Grade": "MiddleSchool",
+		"Subject": "ELA",
+		"DEFINITION": "a system whereby strings of characters are placed in order based on the position of the characters in the conventional ordering of an alphabet. It is one of the methods of collation. To determine which of two strings comes first in alphabetical order, their first letters are compared"
+		"EVERYDAYUSE": "In the English language, the alphabet begins with the letter A and ends with the letter Z. Words in alphabetical order are arranged in this manner:  If we had the following words: 'sat', 'bat', 'mat', 'rat, 'cat', we would put them in order by starting  with the word that begins with the letter 'A'. If there is not a word that begins with the letter 'A' we would go on the next letter in the alphabet 'B' and so on. Our list of words in alphabetical order looks like this:  bat, cat, mat, rat, sat",
+		"HOWITWORKS": "A  systematic way to organize a list of words. Words are organized by following the order of letters in the alphabet-beginning with the letter A and ending with the letter Z."
+	}, {
+		"INDEX": "17",
+		"Title": "Adjectives",
+		"File": "ELA6_Adjectives.mp4",
+		"Grade": "MiddleSchool",
+		"Subject": "ELA",
+		"DEFINITION": "A word or phrase that decribes or changes (modifies) a person, place or thing",
+		"EVERYDAYUSE": "Everyday Use: Adjectives are used every day when describing a person, place or thing. Adjectives provide more detail or modify about a noun.",
+		"HOWITWORKS": "In the sentence: “The small, green, noisy car made a left turn.  'Small,' 'green' and 'noisy' are adjectives becasue they describe the car."
+	}, {
+		"INDEX": "18",
+		"Title": "Noun Town",
+		"File": "ELA62NounTown.mp4",
+		"Grade": "MiddleSchool",
+		"Subject": "ELA",
+		"DEFINITION": "You might like to think of nouns as naming words because a noun is the name of a person, place, thing, or idea. Everything we can see and talk about, we assume, can be named, and that name is a noun. A proper noun, which names a particular person, place, or thing (Mary, Queen Elizabeth, Middle East, Jerusalem, God, the Democratic Party), is almost always capitalized. A proper noun used as an addressed person’s name is referred to as a noun of address. Common nouns name everything else, things that typically are not capitalized",
+		"HOWITWORKS": "At times a noun will be the name for something we can touch (e.g., dog, cake, computer), and sometimes a noun will be the name for something we cannot touch (e.g., bravery, peace). Everything is represented by a word that we can talk about. This includes people (e.g., woman, doctor), animals (e.g., cat, frog), places (e.g., city, street), objects (e.g., bowl, pen), substances (e.g., brass, glass), qualities (e.g., valor, sorrow), actions (e.g., playing, dancing), and measures (e.g., quart, ounce).",
+		"EVERYDAYUSE": "Everyday Use: Nouns are used every day in reading, writing and daily conversation",
+
+	}, {
+		"INDEX": "19",
+		"Title": "Sequence Of Events",
+		"File": "ELA87SequenceofEvents.mp4",
+		"Grade": "Hichshool",
+		"Subject": "ELA",
+		"DEFINITION": "A sequence of events or things is a number of events or things that come one after another in a particular order",
+		"EVERYDAYUSE": "Following intructions or directions in the order that they are writen",
+		"HOWITWORKS": "A particular sequence is a particular order in which things happen or are arranged."
+	}, {
+		"INDEX": "20",
+		"Title": "PATTERNS OF ORGANAZATION",
+		"File": "ELA68PATTERNSANDORGANIZATION.mp4",
+		"Grade": "HighSchool",
+		"Subject": "ELA",
+		"DEFINITION": "All writing has a structure. This can be thought of as a specific format or how the writing is organized.",
+		"EVERYDAYUSE": "People seek out patterns to help make sense of information",
+		"HOWITWORKS": "There are many types of organization an author can follow in his writing. Some of those include chronological order, order of importance, compare and contrast, and cause and effect"
+	}, {
+		"INDEX": "21",
+		"Title": "Contractions",
+		"File": "ELA28Contractios.mp4",
+		"Grade": "HighSchool",
+		"Subject": "ELA",
+		"DEFINITION": "A shortened form of a word or group of words, with omitted letters often replaced with an apostrophe. Importance: Contractions help us keep the rhythm of spoken English. English is a stress-timed language, meaning we keep about the same amount of time between stressed syllables of spoken English. This leads to things like reducing vowels, and in turn, creating things like contractions, along with other spoken English features",
+		"EVERYDAYUSE": "Instead of saying Do not tease the dog, we shorten it to Don’t tease the dog.",
+		"HOWITWORKS": "Contractions are informal shortcuts that we take in our everyday speech"
+	}, {
+		"INDEX": "22",
+		"Title": "ESSAY",
+		"File": "ELA35_Essay.mp4",
+		"Grade": "HighSchool",
+		"Subject": "ELA",
+		"DEFINITION": "A short literary composition on a particular theme or subject, usually in prose and generally analytic, speculative, or interpretative",
+		"EVERYDAYUSE": "",
+		"HOWITWORKS": ""
+	}, {
+		"INDEX": "23",
+		"Title": "Algebra Graphs",
+		"File": "M6Algebra_Graphs.mp4",
+		"Grade": "HighSchool",
+		"Subject": "Math",
+		"DEFINITION": "A graph is a visual representation of a function of one variable. Graphs are plotted with a horizontal and vertical axis, so that values of x are on the horizontal axis and values of y are on the vertical axis",
+		"EVERYDAYUSE": "Construction, Engineering",
+		"HOWITWORKS": ""
+	}, {
+		"INDEX": "24",
+		"Title": "Equations",
+		"File": "M36Equations.mp4",
+		"Grade": "Hichshool",
+		"Subject": "Math",
+		"DEFINITION": "An equation says that two things are equal.",
+		"EVERYDAYUSE": "Construction, Engineering",
+		"HOWITWORKS": "An equation is like a statement this equals that"
+	}, {
+		"INDEX": "25",
+		"Title": "Functions",
+		"File": "M48Functions.mp4",
+		"Grade": "Hichshool",
+		"Subject": "Math",
+		"DEFINITION": "A relationship or expression involving one or more variables.",
+		"EVERYDAYUSE": "Construction, Engineering",
+		"HOWITWORKS": "Functions are used to express math problems"
+	}, {
+		"INDEX": "26",
+		"Title": "SOH CAH TOA",
+		"File": "M125SohCahToa.mp4",
+		"Grade": "Hichshool",
+		"Subject": "Math",
+		"DEFINITION": " A way to remember the definitions of the three most common trigonometry functions: sin, cos and tan",
+		"EVERYDAYUSE": "Used as a memory aid for the definitions of the three common trigonometry functions sine, cosine and tangent . When spoken it is usually pronounced a bit like soaka towa",
+		"HOWITWORKS": "See Every Day Use"
+	}, {
+		"INDEX": "27",
+		"Title": "Economics",
+		"File": "SS23Economics.mp4",
+		"Grade": "Hichshool",
+		"Subject": "Social Studies",
+		"DEFINITION": "A social science concerned chiefly with description and analysis of the production, distribution, and consumption of goods and services"
+		"EVERYDAYUSE": "Purchase and Selling",
+		"HOWITWORKS": "The study of how people produce, trade, and use goods and services. Economists look at how different actors, such as individuals, companies, and governments, interact with one another to maximize the fulfillment of their needs through the use of scarce resources."
+	}, {
+		"INDEX": "28",
+		"Title": "How A Bill Is Passed",
+		"File": "SS43HowABillIsPassed.mp4",
+		"Grade": "Hichshool",
+		"Subject": "Social Studies",
+		"DEFINITION": "A bill is proposed legislation under consideration by a legislature"
+		"EVERYDAYUSE": "A bill does not become law until it is passed by the legislature and, in most cases, approved by the executive. Once a bill has been enacted into law, it is called an act of the legislature, or a statute",
+		"HOWITWORKS": "See Every Day Use"
+	}, {
+		"INDEX": "29",
+		"Title": "Pearl Harbor",
+		"File": "SS57PearlHarbor2.mp4",
+		"Grade": "Hichshool",
+		"Subject": "Social Studies",
+		"DEFINITION": "Pearl Harbor is a U.S. naval base near Honolulu, Hawaii, that was the scene of a devastating surprise attack by Japanese forces on December 7, 1941",
+		"EVERYDAYUSE": "",
+		"HOWITWORKS": ""
+	}, {
+		"INDEX": "30",
+		"Title": "War Of 1812",
+		"File": "SS78Warof1812.mp4",
+		"Grade": "Hichshool",
+		"Subject": "Social Studies",
+		"DEFINITION": "The War of 1812 was a conflict fought between the United States, the United Kingdom, and their respective allies from June 1812 to February 1815",
+		"EVERYDAYUSE": "",
+		"HOWITWORKS": ""
+	}, {
+		"INDEX": "31",
+		"Title": "World War 1",
+		"File": "SS80WorldWar1.mp4",
+		"Grade": "Hichshool",
+		"Subject": "Math",
+		"DEFINITION": "World War I, also called First World War or Great War, an international conflict that in 1914–18 embroiled most of the nations of Europe along with Russia, the United States, the Middle East, and other regions. The war pitted the Central Powers—mainly Germany, Austria-Hungary, and Turkey—against the Allies—mainly France, Great Britain, Russia, Italy, Japan, and, from 1917, the United States. ",
+		"EVERYDAYUSE": "",
+		"HOWITWORKS": ""
+	}, {
+		"INDEX": "32",
+		"Title": "Magnetism",
+		"File": "S33ElectroMagnetism.mp4",
+		"Grade": "Hichshool",
+		"Subject": "Science",
+		"DEFINITION": "The properties or effects of magnetic fields. The force produced by a magnetic field. See at magnetic field. A Magnetism is intimately electricity, in a magnetic is established whenever charges in motion",
+		"EVERYDAYUSE": "Engines, and batteries",
+		"HOWITWORKS": "See Definition"
+	}, {
+		"INDEX": "33",
+		"Title": "Planets",
+		"File": "S100Planets.mp4",
+		"Grade": "Hichshool",
+		"Subject": "Science",
+		"DEFINITION": "Any of the large bodies that revolve around the sun in the solar system",
+		"EVERYDAYUSE": "Humans live on a planet",
+		"HOWITWORKS": "See Every Day Use"
+	}, {
+		"INDEX": "34",
+		"Title": "Chemistry",
+		"File": "S14Chemistry.mp4",
+		"Grade": "Hichshool",
+		"Subject": "Math",
+		"DEFINITION": "A science that deals with the composition, structure, and properties of substances and with the transformations that they undergo",
+		"EVERYDAYUSE": "Cooking, Medicine",
+		"HOWITWORKS": "See Every Day Use"
+	}, {
+		"INDEX": "35",
+		"Title": "ACIDS AND BASES",
+		"File": "S1ACIDSBASEs.mp4",
+		"Grade": "Hichshool",
+		"Subject": "Science",
+		"DEFINITION": "Theory: Acids are substances which produce hydrogen ions in solution.Bases are substances which produce hydroxide ions in solution.",
+		"EVERYDAYUSE": "The ways that acids and bases work together can enhance flavor, tenderize seafood and meat, get baked goods to rise properly and even put out a kitchen fire.",
+		"HOWITWORKS": "See Every Day Use"
+	}, {
+		"INDEX": "36",
+		"Title": "Branches Of The Government",
+		"File": "SS11BranchesofTeGov.mp4",
+		"Grade": "MiddleSchool",
+		"Subject": "Social Studies",
+		"DEFINITION": "A branch may use its powers to check the powers of the other two in order to maintain a balance of power among the three branches of government. Legislative - Makes Laws. Congress is composed of two parts: the Senate and the House of Representatives. Senate. The Senate has 100 elected senators total; 2 senators per state.",
+		"EVERYDAYUSE": "Making and passing laws by congress and the President",
+		"HOWITWORKS": ""
+	}, {
+		"INDEX": "37",
+		"Title": "Civics",
+		"File": "SS14Civics.mp4",
+		"Grade": "MiddleSchool",
+		"Subject": "Social Studies",
+		"DEFINITION": "A social science dealing with the rights and duties of citizens",
+		"EVERYDAYUSE": "",
+		"HOWITWORKS": ""
+	}, {
+		"INDEX": "38",
+		"Title": "Laws",
+		"File": "SS50Laws.mp4",
+		"Grade": "MiddleSchool",
+		"Subject": "Social Studies",
+		"DEFINITION": "a binding custom or practice of a community : a rule of conduct or action prescribed (see PRESCRIBE sense 1a) or formally recognized as binding or enforced by a controlling authorit",
+		"EVERYDAYUSE": "Following rules",
+		"HOWITWORKS": "Stopping at a red light"
+	}, {
+		"INDEX": "39",
+		"Title": "Maps",
+		"File": "SS51Maps.mp4",
+		"Grade": "MiddleSchool",
+		"Subject": "Social Studies",
+		"DEFINITION": "A diagram or other visual representation that shows the relative position of the parts of something",
+		"EVERYDAYUSE": "GPS",
+		"HOWITWORKS": "to make a survey of for or as if for the purpose of making a map"
+	}, {
+		"INDEX": "40",
+		"Title": "13 Original Colonies",
+		"File": "13_Original_colonies.mp4",
+		"Grade": "MiddleSchool",
+		"Subject": "Social Studies",
+		"DEFINITION": "The Thirteen Colonies, also known as the Thirteen British Colonies or Thirteen American Colonies, were a group of British colonies on the Atlantic coast of North America founded in the 17th and 18th centuries",
+		"EVERYDAYUSE": "",
+		"HOWITWORKS": "Delaware, Pennsylvania, New Jersey, Georgia, Connecticut, Massachusetts Bay, Maryland, South Carolina, New Hampshire, Virginia, New York, North Carolina, and Rhode Island and Providence Plantations. Massachusetts, Rhode Island, Connecticut and New Jersey were formed by mergers of previous colonies"
+	}, {
+		"INDEX": "41",
+		"Title": "CLIMATES AND BIOMES",
+		"File": "S16ClimatesandBiomes.mp4",
+		"Grade": "MiddleSchool",
+		"Subject": "Science",
+		"DEFINITION": "A biome is a big geographical region where certain types of plants and animals live. Each biome has a different set of environmental conditions and plants and animals that have adapted to those conditions. The major land biomes have names like tropical rain forest, grasslands, desert, temperate deciduous forest, taiga and tundra. Climate is the characteristic condition of the atmosphere in relation to the earth’s surface at a certain place on earth. It is the long-term weather of that area. This includes the region’s pattern of weather characteristics, seasons and weather extremes like hurricanes, droughts, or rainy periods. The most important factors determining an area’s climate are air temperature and precipitation.",
+		"EVERYDAYUSE": "How It Works: World biomes are created by climate. The climate of a region will dictate what plants will grow there, and what animals will live there. Three components, climate, plants and animals are combined to make a biome.",
+		"HOWITWORKS": "There are three basic types of climates: Low-latitude Climates: These climates are controlled by equatorial a tropical air masses. Mid-latitude Climates: Climates in this zone are affected by air-masses. The tropical air-masses are blowing towards the poles and the polar air-masses are blowing towards the equator. These two air masses are always in conflict. Either air mass may control the area, but neither has more control. High-latitude climates: Polar and arctic air masses fill these regions. Canada and Siberia are two air-mass sources that are in this group"
+	}, {
+		"INDEX": "42",
+		"Title": "Matter",
+		"File": "S60MatterandChanges.mp4",
+		"Grade": "MiddleSchool",
+		"Subject": "Science",
+		"DEFINITION": "Matter is any and everything on Earth that occupies space and has weight. All matter is combined from small particles called atoms and molecules. Matter can be classified into three states based on certain properties and the molecular arrangement",
+		"EVERYDAYUSE": "Importance: Different kinds of matter can come together to form substances that may not look like any of the original ingredients. For example, hydrogen (a gaseous element) and oxygen (another gaseous element) come together to form Water {a liquid compound at room temperature}. When these elements combine, it is called a chemical reaction. A chemical reaction takes place between the electrons of the atoms, but does not affect the nuclei of the atoms.",
+		"HOWITWORKS": "How It Works: All the states depend upon' the distance away from each molecule / atoms present in the material. Atoms are closest when matter is in solid state, however in state of gas, atoms are further from each other as s e in liquids and solids. Changing temperature like heating can also change the state of the matter. Sometimes elements change their states due to heat and pressure. Water can move in phases so can change to ice when freezing, and also ice can change back to water through heating because evaporation"
+	}, {
+		"INDEX": "43",
+		"Title": "Rocks",
+		"File": "S75Rocks.mp4",
+		"Grade": "MiddleSchool",
+		"Subject": "Science",
+		"DEFINITION": "Rocks are the solid or not solid mineral material forming part of the top of the earth and other similar planets. Rocks are exposed on the surface or underneath the soil or oceans. Many are not made of minerals and are lifeless combinations with chemical formulas and mineral names, like quartz."
+		"EVERYDAYUSE": "",
+		"HOWITWORKS": ""
+	}, {
+		"INDEX": "44",
+		"Title": "ANIMAL KINGDOM",
+		"File": "S2AnimalKingdom.mp4",
+		"Grade": "MiddleSchool",
+		"Subject": "Science",
+		"DEFINITION": "We characterize animals as being multicellular and eukaryotic. Classification of animals is about grouping organisms into groups. Members of a group have similar characteristic, that is com- mon to all members of that group and it is this character that stratifies the group",
+		"EVERYDAYUSE": "Classification of living things is called Taxonomy. Scientists group organisms into groups when they have things in common. The first groups they use are the Kingdoms. There are five kingdoms: Animal Kingdom Plant Kingdom Fungi Kingdom Protist Kingdom Moneran Kingdom Each Kingdom is then divided into smaller groups, called Phyla. Each Phylum is divided into smaller groups called Classes, each Class is split into Orders, each Order is split into Families, each Family is divided into Genera, and each Genus is divided into Species. A Species is a single organism, not a groups.",
+		"HOWITWORKS": ""
+
+	}, {
+		"INDEX": "45",
+		"Title": "PEMDAS",
+		"File": "PEMDAS.mp4",
+		"Grade": "MiddleSchool",
+		"Subject": "Math",
+		"DEFINITION": "An acronym for the words parenthesis, exponents, multiplication, division, addition, subtraction. Given two or more operations in a single expression, the order of the letters in PEMDAS tells you what to calculate first, second, third and so on, until the calculation is complete. If there are grouping symbols in the expression, PEMDAS tells you to calculate within the grouping symbols firs",
+		"EVERYDAYUSE": "Problem solving with equations",
+		"HOWITWORKS": "Calculate 36 - 2(20 + 12 / 4 * 3 - 2^2) + 10. Since there is a grouping symbol, I must perform all calculations in the parenthesis first, using PEMDAS for any operations in that expression."
+	}, {
+		"INDEX": "46",
+		"Title": "POWER MAN",
+		"File": "M93POWERMAN.mp4",
+		"Grade": "MiddleSchool",
+		"Subject": "Math",
+		"DEFINITION": "The power of a number says how many times to use the number in a multiplication.",
+		"EVERYDAYUSE": "A power is another mathematics term for exponent. For example 5 to the third power is expressed as 53; where the 3 is the exponent. When you see a problem like this, you multiply the larger number by itself, as many times as the number of the exponent or power indicates. For example; 53= 5x5x5=125 35= 3x3x3x3x3=243.",
+		"HOWITWORKS": "It is written as a small number to the right and above the base number."
+	}, {
+		"INDEX": "47",
+		"Title": "Algebra Graphs",
+		"File": "M6Algebra_Graphs.mp4",
+		"Grade": "MiddleSchool",
+		"Subject": "Math",
+		"DEFINITION": "A graph is a visual representation of a function of one variable. Graphs are plotted with a horizontal and vertical axis, so that values of x are on the horizontal axis and values of y are on the vertical axis"
+		"EVERYDAYUSE": "Construction, Engineering",
+		"HOWITWORKS": ""
+	}, {
+		"INDEX": "48",
+		"Title": "PROBABILITY",
+		"File": "M95Probability.mp4",
+		"Grade": "MiddleSchool",
+		"Subject": "Math",
+		"DEFINITION": "The extent to which an event is likely to occur, measured by the ratio of the favorable cases to the whole number of cases possible.",
+		"EVERYDAYUSE": "HOW TO: the probability of flipping a coin and it being heads is ½, because there is 1 way of getting a head and the total number of possible outcomes is 2 (a head or tail)",
+		"HOWITWORKS": ""
+
+	}, {
+		"INDEX": "49",
+		"Title": "PYTHAGOREAN THEOREM",
+		"File": "M102PythagoreanTheorem.mp4",
+		"Grade": "MiddleSchool",
+		"Subject": "Math",
+		"DEFINITION": "A theorem in geometry: the square of the length of the hypotenuse of a right triangle equals the sum of the squares of the lengths of the other two sides",
+		"HOWITWORKS": "The square of the length of the hypotenuse of a right triangle is the sum of the squares of the lengths of the two sides. This is usually expressed as a2+b2 = c2. Integer triples which satisfy this equation are Pythagorean triples.",
+		"EVERYDAYUSE": "Used to find measurements"
+	}, {
+		"INDEX": "50",
+		"Title": "Chronological Order",
+		"File": "M16_Chronological_Order",
+		"Grade": "MiddleSchool",
+		"Subject": "ELA",
+		"DEFINITION";
+		"The definition of chronological is arranged in the order it happened.",
+		"EVERYDAYUSE": "Everyday Use: Chronological order is used every day when putting things in order",
+		"HOWITWORKS": "An example of chronological is a biography that starts in 1920 and goes through 1997"
+
+	}, {
+		"INDEX": "51",
+		"Title": "VOWELS",
+		"File": "VOWELS.mp4",
+		"Grade": "MiddleSchool",
+		"Subject": "ELA",
+		"DEFINITION": "Letters of the alphabet that generally stand for sounds made with an open or partially open mouth: A, E, I, O, U, and sometimes Y",
+		"EVERYDAYUSE": "Vowels are used in every word in the english language",
+		"HOWITWORKS": "phonetics a voiced speech sound whose articulation is characterized by the absence of friction-causing obstruction in the vocal tract, allowing the breath stream free passage. The timbre of a vowel is chiefly determined by the position of the tongue and the lips",
+	}, {
+		"INDEX": "52",
+		"Title": "ABC ORDER",
+		"File": "ABCORDER.mp4",
+		"Grade": "MiddleSchool",
+		"Subject": "ELA",
+		"DEFINITION": "a system whereby strings of characters are placed in order based on the position of the characters in the conventional ordering of an alphabet. It is one of the methods of collation. To determine which of two strings comes first in alphabetical order, their first letters are compared",
+		"EVERYDAYUSE": "In the English language, the alphabet begins with the letter A and ends with the letter Z. Words in alphabetical order are arranged in this manner:  If we had the following words: 'sat', 'bat', 'mat', 'rat, 'cat', we would put them in order by starting  with the word that begins with the letter 'A'. If there is not a word that begins with the letter 'A' we would go on the next letter in the alphabet 'B' and so on. Our list of words in alphabetical order looks like this:  bat, cat, mat, rat, sat",
+		"HOWITWORKS": "A  systematic way to organize a list of words. Words are organized by following the order of letters in the alphabet-beginning with the letter A and ending with the letter Z."
+	}, {
+		"INDEX": "53",
+		"Title": "Adjectives",
+		"File": "ELA6_Adjectives.mp4",
+		"Grade": "MiddleSchool",
+		"Subject": "ELA",
+		"DEFINITION": "A word or phrase that decribes or changes (modifies) a person, place or thing",
+		"EVERYDAYUSE": "Everyday Use: Adjectives are used every day when describing a person, place or thing. Adjectives provide more detail or modify about a noun.",
+		"HOWITWORKS": "In the sentence: “The small, green, noisy car made a left turn.  'Small,' 'green' and 'noisy' are adjectives becasue they describe the car."
+	}, {
+		"INDEX": "54",
+		"Title": "Noun Town",
+		"File": "ELA62NounTown.mp4",
+		"Grade": "MiddleSchool",
+		"Subject": "ELA",
+		"DEFINITION": "You might like to think of nouns as naming words because a noun is the name of a person, place, thing, or idea. Everything we can see and talk about, we assume, can be named, and that name is a noun. A proper noun, which names a particular person, place, or thing (Mary, Queen Elizabeth, Middle East, Jerusalem, God, the Democratic Party), is almost always capitalized. A proper noun used as an addressed person’s name is referred to as a noun of address. Common nouns name everything else, things that typically are not capitalized",
+		"HOWITWORKS": "At times a noun will be the name for something we can touch (e.g., dog, cake, computer), and sometimes a noun will be the name for something we cannot touch (e.g., bravery, peace). Everything is represented by a word that we can talk about. This includes people (e.g., woman, doctor), animals (e.g., cat, frog), places (e.g., city, street), objects (e.g., bowl, pen), substances (e.g., brass, glass), qualities (e.g., valor, sorrow), actions (e.g., playing, dancing), and measures (e.g., quart, ounce).",
+		"EVERYDAYUSE": "Everyday Use: Nouns are used every day in reading, writing and daily conversation",
+
+	}
 
 ]
+
+
