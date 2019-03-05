@@ -1,1 +1,37 @@
-
+[{
+		"INDEX": "10",
+		"Title": "Airplanes",
+		"File": "SS4Airplanes.mp4",
+		"Grade": "Elementary",
+		"Subject": "Social Studies",
+		"DEFINITION": "An airplane or aeroplane (informally plane) is a powered, fixed-wing aircraft that is propelled forward by thrust from a jet engine, propeller or rocket engine.",
+		"EVERYDAYUSE": "People travel all over the world in an airplane.",
+		"HOWITWORKS": "A plane's engines are designed to move it forward at high speed. That makes air flow rapidly over the wings, which throw the air down toward the ground, generating an upward force called lift that overcomes the plane's weight and holds it in the sky. The wings force the air downward and that pushes the plane upward"
+	}, {
+		"INDEX": "11",
+		"Title": "Good Citizen",
+		"File": "SS31GoodCitizen.mp4",
+		"Grade": "Elementary",
+		"Subject": "Social Studies",
+		"DEFINITION": "An inhabitant of a city or town",
+		"EVERYDAYUSE": "You are a citizen of your city, state, and country.",
+		"HOWITWORKS": "CITIZEN is preferred for one owing allegiance to a state in which sovereign power is retained by the people and sharing in the political rights of those people"
+	}, {
+		"INDEX": "12",
+		"Title": "Holiday",
+		"File": "SS41Holiday.mp4",
+		"Grade": "Elementary",
+		"Subject": "Social Studies",
+		"DEFINITION": "A holiday is a day set aside by custom or by law on which normal activities, especially business or work including school, are suspended or reduced. Generally, holidays are intended to allow individuals to celebrate or commemorate an event or tradition of cultural or religious significance. Holidays may be designated by governments, religious institutions, or other groups or organizations. The degree to which normal activities are reduced by a holiday may depend on local laws, customs, the type of job held or personal choices.",
+		"EVERYDAYUSE": "The concept of holidays often originated in connection with religious observances. The intention of a holiday was typically to allow individuals to tend to religious duties associated with important dates on the calendar. In most modern societies, however, holidays serve as much of a recreational function as any other weekend days or activities.",
+		"HOWITWORKS": "Christmas, Easter,New Years Day,Valentines Day, and The 4th Of July are examples of holidays"
+	}, {
+		"INDEX": "13",
+		"Title": "US President",
+		"File": "SS83USPresidents.mp4",
+		"Grade": "Elementary",
+		"Subject": "Social Studies",
+		"DEFINITION": "The President of the United States (POTUS)[B] is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.",
+		"EVERYDAYUSE": "He lives in the White House , and makes laws with Congress and the House of Representatives",
+		"HOWITWORKS": "The US President is elected by the Citizens of The United States"
+	}]
