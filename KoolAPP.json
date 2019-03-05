@@ -177,43 +177,7 @@
 		"File": "Parts_of_Speech.mp4",
 		"Grade": "HighSchool",
 		"Subject": "ELA"
-	}, {
-		"INDEX": "1",
-		"Title": "Counting To 100",
-		"File": "M168CountingTo100.mp4",
-		"Grade": "Elementary",
-		"Subject": "Math",
-		"DEFINITION": "To name or list (the units of a group or collection) one by one in order to determine a total; number.",
-		"EVERYDAYUSE": "",
-		"HOWITWORKS": ""
-	}, {
-		"INDEX": "2",
-		"Title": "ELEMENTARY SHAPES",
-		"File": "M35elementaryshapes.mp4",
-		"Grade": "Elementary",
-		"Subject": "Math",
-		"DEFINITION": "A shape is the form of an object. It is how the form of an object is laid out in space. Knowking shapes is important when learning how to read (helps with letter recognition), early math skills, categorization and comparisons, and problem solving.  Common shapes include circles, squares, triangles, spheres, cubes, and pyramids.",
-		"EVERYDAYUSE": "HOW IT IS USED IN EVERYDAY LIFE: Shapes are used every day when drawing and observing objects",
-		"HOWITWORKS": "HOW IT WORKS: Rectangles, triangles, circles, and squares are examples of shapes"
-	}, {
-		"INDEX": "3",
-		"Title": "Subtraction",
-		"File": "M131SUBTRACTION.mp4",
-		"Grade": "Elementary",
-		"Subject": "Math",
-		"DEFINITION": "The process or skill of taking one number or amount away from another. The result of a subtraction is called a difference.",
-		"EVERYDAYUSE": "Shopping, spending money",
-		"HOWITWORKS": "The part you start with is called the minuend. The part being taken away is called the subtrahend. The part that is left after subtraction is called the difference. In the problem 5 - 3 = 2, the number 5 is the minuend, the number 3 is the subtrahend, and the number 2 is the difference"
-	}, {
-		"INDEX": "4",
-		"Title": "Triangles",
-		"File": "M139Triangles.mp4",
-		"Grade": "Elementary",
-		"Subject": "Math",
-		"DEFINITION": "A shape that has 3 sides",
-		"EVERYDAYUSE": "Architecture, Engineering",
-		"HOWITWORKS": "Isosceles Two sides equal Equilateral All sides equal Scalene No sides equal"
-	}, {
+	},  {
 		"INDEX": "5",
 		"Title": "INSECT LIFE",
 		"File": "S53insectlife.mp4",
