@@ -1,34 +1,4 @@
-[{
-		"ID": "1",
-		"Title": "Area",
-		"File": "Area.mp4",
-		"Grade": "MiddleSchool",
-		"Subject": "Math"
-	}, {
-		"ID": "2",
-		"Title": "Base Height",
-		"File": "BaseHeight-1.mp4",
-		"Grade": "MiddleSchool",
-		"Subject": "Math"
-	}, {
-		"ID": "3",
-		"Title": "Line Segments",
-		"File": "Line_Segments.mp4",
-		"Grade": "MiddleSchool",
-		"Subject": "Math"
-	}, {
-		"ID": "4",
-		"Title": "Right Angle",
-		"File": "Right_Angle.mp4",
-		"Grade": "MiddleSchool",
-		"Subject": "Math"
-	}, {
-		"ID": "5",
-		"Title": "Triangles",
-		"File": "Triangles.mp4",
-		"Grade": "MiddleSchool",
-		"Subject": "Math"
-	}, {
+[ {
 		"ID": "6",
 		"Title": "Fossils",
 		"File": "Fossils.mp4",
