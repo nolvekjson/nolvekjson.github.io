@@ -1,34 +1,4 @@
-[ {
-		"ID": "6",
-		"Title": "Fossils",
-		"File": "Fossils.mp4",
-		"Grade": "MiddleSchool",
-		"Subject": "Science"
-	}, {
-		"ID": "7",
-		"Title": "Polution",
-		"File": "Polution.mp4",
-		"Grade": "MiddleSchool",
-		"Subject": "Science"
-	}, {
-		"ID": "8",
-		"Title": "Rainbows",
-		"File": "Rainbows.mp4",
-		"Grade": "MiddleSchool",
-		"Subject": "Science"
-	}, {
-		"ID": "9",
-		"Title": "Seasons",
-		"File": "Seasons.mp4",
-		"Grade": "MiddleSchool",
-		"Subject": "Science"
-	}, {
-		"ID": "10",
-		"Title": "Soil",
-		"File": "Soil.mp4",
-		"Grade": "MiddleSchool",
-		"Subject": "Science"
-	}, {
+[{
 		"ID": "11",
 		"Title": "Envelope",
 		"File": "Envelope.mp4",
