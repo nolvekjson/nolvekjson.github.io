@@ -1,3 +1,31 @@
 [
+ {
+		"INDEX": "16",
+		"Title": "ABC ORDER",
+		"File": "ABCORDER.mp4",
+		"Grade": "Elementary",
+		"Subject": "ELA",
+		"DEFINITION": "a system whereby strings of characters are placed in order based on the position of the characters in the conventional ordering of an alphabet. It is one of the methods of collation. To determine which of two strings comes first in alphabetical order, their first letters are compared"
+		"EVERYDAYUSE": "In the English language, the alphabet begins with the letter A and ends with the letter Z. Words in alphabetical order are arranged in this manner:  If we had the following words: 'sat', 'bat', 'mat', 'rat, 'cat', we would put them in order by starting  with the word that begins with the letter 'A'. If there is not a word that begins with the letter 'A' we would go on the next letter in the alphabet 'B' and so on. Our list of words in alphabetical order looks like this:  bat, cat, mat, rat, sat",
+		"HOWITWORKS": "A  systematic way to organize a list of words. Words are organized by following the order of letters in the alphabet-beginning with the letter A and ending with the letter Z."
+	}, {
+		"INDEX": "17",
+		"Title": "Adjectives",
+		"File": "ELA6_Adjectives.mp4",
+		"Grade": "Elementary",
+		"Subject": "ELA",
+		"DEFINITION": "A word or phrase that decribes or changes (modifies) a person, place or thing",
+		"EVERYDAYUSE": "Everyday Use: Adjectives are used every day when describing a person, place or thing. Adjectives provide more detail or modify about a noun.",
+		"HOWITWORKS": "In the sentence: “The small, green, noisy car made a left turn.  'Small,' 'green' and 'noisy' are adjectives becasue they describe the car."
+	}, {
+		"INDEX": "18",
+		"Title": "Noun Town",
+		"File": "ELA62NounTown.mp4",
+		"Grade": "Elementary",
+		"Subject": "ELA",
+		"DEFINITION": "You might like to think of nouns as naming words because a noun is the name of a person, place, thing, or idea. Everything we can see and talk about, we assume, can be named, and that name is a noun. A proper noun, which names a particular person, place, or thing (Mary, Queen Elizabeth, Middle East, Jerusalem, God, the Democratic Party), is almost always capitalized. A proper noun used as an addressed person’s name is referred to as a noun of address. Common nouns name everything else, things that typically are not capitalized",
+		"HOWITWORKS": "At times a noun will be the name for something we can touch (e.g., dog, cake, computer), and sometimes a noun will be the name for something we cannot touch (e.g., bravery, peace). Everything is represented by a word that we can talk about. This includes people (e.g., woman, doctor), animals (e.g., cat, frog), places (e.g., city, street), objects (e.g., bowl, pen), substances (e.g., brass, glass), qualities (e.g., valor, sorrow), actions (e.g., playing, dancing), and measures (e.g., quart, ounce).",
+		"EVERYDAYUSE": "Everyday Use: Nouns are used every day in reading, writing and daily conversation",
 
+	}
 ]
