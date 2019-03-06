@@ -1,5 +1,16 @@
 [
- {
+
+	{
+		"INDEX": "15",
+		"Title": "VOWELS",
+		"File": "VOWELS.mp4",
+		"Grade": "Elementary",
+		"Subject": "ELA",
+		"DEFINITION": "Letters of the alphabet that generally stand for sounds made with an open or partially open mouth: A, E, I, O, U, and sometimes Y",
+		"EVERYDAYUSE": "Vowels are used in every word in the english language",
+		"HOWITWORKS": "phonetics a voiced speech sound whose articulation is characterized by the absence of friction-causing obstruction in the vocal tract, allowing the breath stream free passage. The timbre of a vowel is chiefly determined by the position of the tongue and the lips"
+	},
+	{
 		"INDEX": "16",
 		"Title": "ABC ORDER",
 		"File": "ABCORDER.mp4",
