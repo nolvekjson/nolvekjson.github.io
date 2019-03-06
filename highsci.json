@@ -1,1 +1,39 @@
 
+[{
+		"INDEX": "32",
+		"Title": "Magnetism",
+		"File": "S33ElectroMagnetism.mp4",
+		"Grade": "Hichshool",
+		"Subject": "Science",
+		"DEFINITION": "The properties or effects of magnetic fields. The force produced by a magnetic field. See at magnetic field. A Magnetism is intimately electricity, in a magnetic is established whenever charges in motion",
+		"EVERYDAYUSE": "Engines, and batteries",
+		"HOWITWORKS": "See Definition"
+	}, {
+		"INDEX": "33",
+		"Title": "Planets",
+		"File": "S100Planets.mp4",
+		"Grade": "Hichshool",
+		"Subject": "Science",
+		"DEFINITION": "Any of the large bodies that revolve around the sun in the solar system",
+		"EVERYDAYUSE": "Humans live on a planet",
+		"HOWITWORKS": "See Every Day Use"
+	}, {
+		"INDEX": "34",
+		"Title": "Chemistry",
+		"File": "S14Chemistry.mp4",
+		"Grade": "Hichshool",
+		"Subject": "Science",
+		"DEFINITION": "A science that deals with the composition, structure, and properties of substances and with the transformations that they undergo",
+		"EVERYDAYUSE": "Cooking, Medicine",
+		"HOWITWORKS": "See Every Day Use"
+	}, {
+		"INDEX": "35",
+		"Title": "ACIDS AND BASES",
+		"File": "S1ACIDSBASEs.mp4",
+		"Grade": "Hichshool",
+		"Subject": "Science",
+		"DEFINITION": "Theory: Acids are substances which produce hydrogen ions in solution.Bases are substances which produce hydroxide ions in solution.",
+		"EVERYDAYUSE": "The ways that acids and bases work together can enhance flavor, tenderize seafood and meat, get baked goods to rise properly and even put out a kitchen fire.",
+		"HOWITWORKS": "See Every Day Use"
+	}
+ ]
