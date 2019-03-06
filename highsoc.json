@@ -17,13 +17,7 @@
 		"File": "CountriesofAsia.mp4",
 		"Grade": "HighSchool",
 		"Subject": "Social Studies"
-	}, {
-		"ID": "23",
-		"Title": "Geography",
-		"File": "Geograpy.mp4",
-		"Grade": "HighSchool",
-		"Subject": "Social Studies"
-	}, {
+	},  {
 		"ID": "24",
 		"Title": "Gettys Burg Address",
 		"File": "Gettysburg_address.mp4",
