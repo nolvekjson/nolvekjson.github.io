@@ -1,1 +1,39 @@
 
+[{
+		"INDEX": "23",
+		"Title": "Algebra Graphs",
+		"File": "M6Algebra_Graphs.mp4",
+		"Grade": "HighSchool",
+		"Subject": "Math",
+		"DEFINITION": "A graph is a visual representation of a function of one variable. Graphs are plotted with a horizontal and vertical axis, so that values of x are on the horizontal axis and values of y are on the vertical axis",
+		"EVERYDAYUSE": "Construction, Engineering",
+		"HOWITWORKS": ""
+	}, {
+		"INDEX": "24",
+		"Title": "Equations",
+		"File": "M36Equations.mp4",
+		"Grade": "Hichshool",
+		"Subject": "Math",
+		"DEFINITION": "An equation says that two things are equal.",
+		"EVERYDAYUSE": "Construction, Engineering",
+		"HOWITWORKS": "An equation is like a statement this equals that"
+	}, {
+		"INDEX": "25",
+		"Title": "Functions",
+		"File": "M48Functions.mp4",
+		"Grade": "Hichshool",
+		"Subject": "Math",
+		"DEFINITION": "A relationship or expression involving one or more variables.",
+		"EVERYDAYUSE": "Construction, Engineering",
+		"HOWITWORKS": "Functions are used to express math problems"
+	}, {
+		"INDEX": "26",
+		"Title": "SOH CAH TOA",
+		"File": "M125SohCahToa.mp4",
+		"Grade": "Hichshool",
+		"Subject": "Math",
+		"DEFINITION": " A way to remember the definitions of the three most common trigonometry functions: sin, cos and tan",
+		"EVERYDAYUSE": "Used as a memory aid for the definitions of the three common trigonometry functions sine, cosine and tangent . When spoken it is usually pronounced a bit like soaka towa",
+		"HOWITWORKS": "See Every Day Use"
+	}
+ ]
