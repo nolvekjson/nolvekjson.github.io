@@ -1,34 +1,38 @@
 [{
-		"ID": "25",
-		"Title": "Capitalization",
-		"File": "Capitalization.mp4",
-		"Grade": "HighSchool",
-		"Subject": "ELA"
+		"INDEX": "19",
+		"Title": "Sequence Of Events",
+		"File": "ELA87SequenceofEvents.mp4",
+		"Grade": "Hichshool",
+		"Subject": "ELA",
+		"DEFINITION": "A sequence of events or things is a number of events or things that come one after another in a particular order",
+		"EVERYDAYUSE": "Following intructions or directions in the order that they are writen",
+		"HOWITWORKS": "A particular sequence is a particular order in which things happen or are arranged."
 	}, {
-		"ID": "26",
-		"Title": "Figurative Language",
-		"File": "Figurative_Language.mp4",
+		"INDEX": "20",
+		"Title": "PATTERNS OF ORGANAZATION",
+		"File": "ELA68PATTERNSANDORGANIZATION.mp4",
 		"Grade": "HighSchool",
-		"Subject": "ELA"
-	},
-	{
-		"ID": "27",
-		"Title": "Figure of Speach",
-		"File": "Figure_of_Speech.mp4",
+		"Subject": "ELA",
+		"DEFINITION": "All writing has a structure. This can be thought of as a specific format or how the writing is organized.",
+		"EVERYDAYUSE": "People seek out patterns to help make sense of information",
+		"HOWITWORKS": "There are many types of organization an author can follow in his writing. Some of those include chronological order, order of importance, compare and contrast, and cause and effect"
+	}, {
+		"INDEX": "21",
+		"Title": "Contractions",
+		"File": "ELA28Contractios.mp4",
 		"Grade": "HighSchool",
-		"Subject": "ELA"
-	},
-	{
-		"ID": "28",
-		"Title": "Hyphenation",
-		"File": "Hyphenation.mp4",
+		"Subject": "ELA",
+		"DEFINITION": "A shortened form of a word or group of words, with omitted letters often replaced with an apostrophe. Importance: Contractions help us keep the rhythm of spoken English. English is a stress-timed language, meaning we keep about the same amount of time between stressed syllables of spoken English. This leads to things like reducing vowels, and in turn, creating things like contractions, along with other spoken English features",
+		"EVERYDAYUSE": "Instead of saying Do not tease the dog, we shorten it to Don’t tease the dog.",
+		"HOWITWORKS": "Contractions are informal shortcuts that we take in our everyday speech"
+	}, {
+		"INDEX": "22",
+		"Title": "ESSAY",
+		"File": "ELA35_Essay.mp4",
 		"Grade": "HighSchool",
-		"Subject": "ELA"
-	},
-	{
-		"ID": "29",
-		"Title": "Parts Of Speech",
-		"File": "Parts_of_Speech.mp4",
-		"Grade": "HighSchool",
-		"Subject": "ELA"
-	}]
+		"Subject": "ELA",
+		"DEFINITION": "A short literary composition on a particular theme or subject, usually in prose and generally analytic, speculative, or interpretative",
+		"EVERYDAYUSE": "",
+		"HOWITWORKS": ""
+	}
+ ]
