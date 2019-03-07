@@ -1,32 +1,48 @@
 [{
-		"ID": "1",
-		"Title": "Area",
-		"File": "Area.mp4",
-		"Grade": "MiddleSchool",
-		"Subject": "Math"
-	}, {
-		"ID": "2",
-		"Title": "Base Height",
-		"File": "BaseHeight-1.mp4",
-		"Grade": "MiddleSchool",
-		"Subject": "Math"
-	}, {
-		"ID": "3",
-		"Title": "Line Segments",
-		"File": "Line_Segments.mp4",
-		"Grade": "MiddleSchool",
-		"Subject": "Math"
-	}, {
-		"ID": "4",
-		"Title": "Right Angle",
-		"File": "Right_Angle.mp4",
-		"Grade": "MiddleSchool",
-		"Subject": "Math"
-	}, {
-		"ID": "5",
-		"Title": "Triangles",
-		"File": "Triangles.mp4",
-		"Grade": "MiddleSchool",
-		"Subject": "Math"
-	}
+	"INDEX": "45",
+	"Title": "PEMDAS",
+	"File": "PEMDAS.mp4",
+	"Grade": "MiddleSchool",
+	"Subject": "Math",
+	"DEFINITION": "An acronym for the words parenthesis, exponents, multiplication, division, addition, subtraction. Given two or more operations in a single expression, the order of the letters in PEMDAS tells you what to calculate first, second, third and so on, until the calculation is complete. If there are grouping symbols in the expression, PEMDAS tells you to calculate within the grouping symbols firs",
+	"EVERYDAYUSE": "Problem solving with equations",
+	"HOWITWORKS": "Calculate 36 - 2(20 + 12 / 4 * 3 - 2^2) + 10. Since there is a grouping symbol, I must perform all calculations in the parenthesis first, using PEMDAS for any operations in that expression."
+}, {
+	"INDEX": "46",
+	"Title": "POWER MAN",
+	"File": "M93POWERMAN.mp4",
+	"Grade": "MiddleSchool",
+	"Subject": "Math",
+	"DEFINITION": "The power of a number says how many times to use the number in a multiplication.",
+	"EVERYDAYUSE": "A power is another mathematics term for exponent. For example 5 to the third power is expressed as 53; where the 3 is the exponent. When you see a problem like this, you multiply the larger number by itself, as many times as the number of the exponent or power indicates. For example; 53= 5x5x5=125 35= 3x3x3x3x3=243.",
+	"HOWITWORKS": "It is written as a small number to the right and above the base number."
+}, {
+	"INDEX": "47",
+	"Title": "Algebra Graphs",
+	"File": "M6Algebra_Graphs.mp4",
+	"Grade": "MiddleSchool",
+	"Subject": "Math",
+	"DEFINITION": "A graph is a visual representation of a function of one variable. Graphs are plotted with a horizontal and vertical axis, so that values of x are on the horizontal axis and values of y are on the vertical axis",
+	"EVERYDAYUSE": "Construction, Engineering",
+	"HOWITWORKS": ""
+}, {
+	"INDEX": "48",
+	"Title": "PROBABILITY",
+	"File": "M95Probability.mp4",
+	"Grade": "MiddleSchool",
+	"Subject": "Math",
+	"DEFINITION": "The extent to which an event is likely to occur, measured by the ratio of the favorable cases to the whole number of cases possible.",
+	"EVERYDAYUSE": "HOW TO: the probability of flipping a coin and it being heads is ½, because there is 1 way of getting a head and the total number of possible outcomes is 2 (a head or tail)",
+	"HOWITWORKS": ""
+
+}, {
+	"INDEX": "49",
+	"Title": "PYTHAGOREAN THEOREM",
+	"File": "M102PythagoreanTheorem.mp4",
+	"Grade": "MiddleSchool",
+	"Subject": "Math",
+	"DEFINITION": "A theorem in geometry: the square of the length of the hypotenuse of a right triangle equals the sum of the squares of the lengths of the other two sides",
+	"HOWITWORKS": "The square of the length of the hypotenuse of a right triangle is the sum of the squares of the lengths of the two sides. This is usually expressed as a2+b2 = c2. Integer triples which satisfy this equation are Pythagorean triples.",
+	"EVERYDAYUSE": "Used to find measurements"
+}
 ]
