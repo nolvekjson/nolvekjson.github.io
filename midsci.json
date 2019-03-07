@@ -1,31 +1,38 @@
 [{
-		"ID": "6",
-		"Title": "Fossils",
-		"File": "Fossils.mp4",
-		"Grade": "MiddleSchool",
-		"Subject": "Science"
-	}, {
-		"ID": "7",
-		"Title": "Polution",
-		"File": "S72Pollution.mp4",
-		"Grade": "MiddleSchool",
-		"Subject": "Science"
-	}, {
-		"ID": "8",
-		"Title": "Rainbows",
-		"File": "Rainbows.mp4",
-		"Grade": "MiddleSchool",
-		"Subject": "Science"
-	}, {
-		"ID": "9",
-		"Title": "Seasons",
-		"File": "Seasons.mp4",
-		"Grade": "MiddleSchool",
-		"Subject": "Science"
-	}, {
-		"ID": "10",
-		"Title": "Soil",
-		"File": "Soil.mp4",
-		"Grade": "MiddleSchool",
-		"Subject": "Science"
-	}]
+	"INDEX": "41",
+	"Title": "CLIMATES AND BIOMES",
+	"File": "S16ClimatesandBiomes.mp4",
+	"Grade": "MiddleSchool",
+	"Subject": "Science",
+	"DEFINITION": "A biome is a big geographical region where certain types of plants and animals live. Each biome has a different set of environmental conditions and plants and animals that have adapted to those conditions. The major land biomes have names like tropical rain forest, grasslands, desert, temperate deciduous forest, taiga and tundra. Climate is the characteristic condition of the atmosphere in relation to the earth’s surface at a certain place on earth. It is the long-term weather of that area. This includes the region’s pattern of weather characteristics, seasons and weather extremes like hurricanes, droughts, or rainy periods. The most important factors determining an area’s climate are air temperature and precipitation.",
+	"EVERYDAYUSE": "How It Works: World biomes are created by climate. The climate of a region will dictate what plants will grow there, and what animals will live there. Three components, climate, plants and animals are combined to make a biome.",
+	"HOWITWORKS": "There are three basic types of climates: Low-latitude Climates: These climates are controlled by equatorial a tropical air masses. Mid-latitude Climates: Climates in this zone are affected by air-masses. The tropical air-masses are blowing towards the poles and the polar air-masses are blowing towards the equator. These two air masses are always in conflict. Either air mass may control the area, but neither has more control. High-latitude climates: Polar and arctic air masses fill these regions. Canada and Siberia are two air-mass sources that are in this group"
+}, {
+	"INDEX": "42",
+	"Title": "Matter",
+	"File": "S60MatterandChanges.mp4",
+	"Grade": "MiddleSchool",
+	"Subject": "Science",
+	"DEFINITION": "Matter is any and everything on Earth that occupies space and has weight. All matter is combined from small particles called atoms and molecules. Matter can be classified into three states based on certain properties and the molecular arrangement",
+	"EVERYDAYUSE": "Importance: Different kinds of matter can come together to form substances that may not look like any of the original ingredients. For example, hydrogen (a gaseous element) and oxygen (another gaseous element) come together to form Water {a liquid compound at room temperature}. When these elements combine, it is called a chemical reaction. A chemical reaction takes place between the electrons of the atoms, but does not affect the nuclei of the atoms.",
+	"HOWITWORKS": "How It Works: All the states depend upon' the distance away from each molecule / atoms present in the material. Atoms are closest when matter is in solid state, however in state of gas, atoms are further from each other as s e in liquids and solids. Changing temperature like heating can also change the state of the matter. Sometimes elements change their states due to heat and pressure. Water can move in phases so can change to ice when freezing, and also ice can change back to water through heating because evaporation"
+}, {
+	"INDEX": "43",
+	"Title": "Rocks",
+	"File": "S75Rocks.mp4",
+	"Grade": "MiddleSchool",
+	"Subject": "Science",
+	"DEFINITION": "Rocks are the solid or not solid mineral material forming part of the top of the earth and other similar planets. Rocks are exposed on the surface or underneath the soil or oceans. Many are not made of minerals and are lifeless combinations with chemical formulas and mineral names, like quartz.",
+	"EVERYDAYUSE": "",
+	"HOWITWORKS": ""
+}, {
+	"INDEX": "44",
+	"Title": "ANIMAL KINGDOM",
+	"File": "S2AnimalKingdom.mp4",
+	"Grade": "MiddleSchool",
+	"Subject": "Science",
+	"DEFINITION": "We characterize animals as being multicellular and eukaryotic. Classification of animals is about grouping organisms into groups. Members of a group have similar characteristic, that is com- mon to all members of that group and it is this character that stratifies the group",
+	"EVERYDAYUSE": "Classification of living things is called Taxonomy. Scientists group organisms into groups when they have things in common. The first groups they use are the Kingdoms. There are five kingdoms: Animal Kingdom Plant Kingdom Fungi Kingdom Protist Kingdom Moneran Kingdom Each Kingdom is then divided into smaller groups, called Phyla. Each Phylum is divided into smaller groups called Classes, each Class is split into Orders, each Order is split into Families, each Family is divided into Genera, and each Genus is divided into Species. A Species is a single organism, not a groups.",
+	"HOWITWORKS": ""
+
+}]
