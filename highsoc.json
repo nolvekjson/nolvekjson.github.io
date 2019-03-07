@@ -1,26 +1,47 @@
 [{
-		"ID": "20",
-		"Title": "Africa",
-		"File": "Africa.mp4",
-		"Grade": "HighSchool",
-		"Subject": "Social Studies"
-	},
-	{
-		"ID": "21",
-		"Title": "Australia",
-		"File": "Australia.mp4",
-		"Grade": "HighSchool",
-		"Subject": "Social Studies"
+		"INDEX": "27",
+		"Title": "Economics",
+		"File": "SS23Economics.mp4",
+		"Grade": "Hichshool",
+		"Subject": "Social Studies",
+		"DEFINITION": "A social science concerned chiefly with description and analysis of the production, distribution, and consumption of goods and services",
+		"EVERYDAYUSE": "Purchase and Selling",
+		"HOWITWORKS": "The study of how people produce, trade, and use goods and services. Economists look at how different actors, such as individuals, companies, and governments, interact with one another to maximize the fulfillment of their needs through the use of scarce resources."
 	}, {
-		"ID": "22",
-		"Title": "Countries of Asia",
-		"File": "CountriesofAsia.mp4",
-		"Grade": "HighSchool",
-		"Subject": "Social Studies"
-	},  {
-		"ID": "24",
-		"Title": "Gettys Burg Address",
-		"File": "Gettysburg_address.mp4",
-		"Grade": "HighSchool",
-		"Subject": "Social Studies"
-	}]
+		"INDEX": "28",
+		"Title": "How A Bill Is Passed",
+		"File": "SS43HowABillIsPassed.mp4",
+		"Grade": "Hichshool",
+		"Subject": "Social Studies",
+		"DEFINITION": "A bill is proposed legislation under consideration by a legislature",
+		"EVERYDAYUSE": "A bill does not become law until it is passed by the legislature and, in most cases, approved by the executive. Once a bill has been enacted into law, it is called an act of the legislature, or a statute",
+		"HOWITWORKS": "See Every Day Use"
+	}, {
+		"INDEX": "29",
+		"Title": "Pearl Harbor",
+		"File": "SS57PearlHarbor2.mp4",
+		"Grade": "Hichshool",
+		"Subject": "Social Studies",
+		"DEFINITION": "Pearl Harbor is a U.S. naval base near Honolulu, Hawaii, that was the scene of a devastating surprise attack by Japanese forces on December 7, 1941",
+		"EVERYDAYUSE": "",
+		"HOWITWORKS": ""
+	}, {
+		"INDEX": "30",
+		"Title": "War Of 1812",
+		"File": "SS78Warof1812.mp4",
+		"Grade": "Hichshool",
+		"Subject": "Social Studies",
+		"DEFINITION": "The War of 1812 was a conflict fought between the United States, the United Kingdom, and their respective allies from June 1812 to February 1815",
+		"EVERYDAYUSE": "",
+		"HOWITWORKS": ""
+	}, {
+		"INDEX": "31",
+		"Title": "World War 1",
+		"File": "SS80WorldWar1.mp4",
+		"Grade": "Hichshool",
+		"Subject": "Social Studies",
+		"DEFINITION": "World War I, also called First World War or Great War, an international conflict that in 1914–18 embroiled most of the nations of Europe along with Russia, the United States, the Middle East, and other regions. The war pitted the Central Powers—mainly Germany, Austria-Hungary, and Turkey—against the Allies—mainly France, Great Britain, Russia, Italy, Japan, and, from 1917, the United States. ",
+		"EVERYDAYUSE": "",
+		"HOWITWORKS": ""
+	}
+ ]
